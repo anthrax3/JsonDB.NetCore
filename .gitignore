@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/JsonDB.NetCore/.vs/JsonDB.NetCore/v15
+/JsonDB.NetCore/JsonDB.NetCore/obj
+/JsonDB.NetCore/JsonDB.Testing/bin/Debug/netcoreapp2.0
+/JsonDB.NetCore/JsonDB.Testing/obj
+/JsonDB.NetCore/JsonDB.NetCore/bin/Debug/netcoreapp2.0
